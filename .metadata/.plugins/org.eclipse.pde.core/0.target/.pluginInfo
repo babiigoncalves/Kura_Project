@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="35" name="org.eclipse.kura.core.comm" provider="EUROTECH">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="36" class="org.eclipse.core.internal.runtime.PlatformActivator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="33" localization="plugin" name="Jetty :: Server Core" provider="Eclipse Jetty Project"/>
+	<bundle bundleID="34" name="osgi.cmpn" provider="OSGi Alliance"/>
+	<bundle bundleID="39" class="org.eclipse.equinox.internal.app.Activator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="37" localization="launcher" name="%pluginName" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="38" localization="plugin" name="Jetty :: Continuation" provider="Eclipse Jetty Project"/>
+	<bundle bundleID="43" name="org.eclipse.kura.core" provider="EUROTECH">
+		<library name="."/>
+		<library name="lib/org.eclipse.paho.client.mqttv3-1.0.1.2.jar"/>
+	</bundle>
+	<bundle bundleID="42" class="org.apache.felix.gogo.command.Activator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="41" class="org.eclipse.core.internal.registry.osgi.Activator" hasExtensibleAPI="true" localization="plugin" name="%pluginName" provider="%providerName">
+		<library name="runtime_registry_compatibility.jar"/>
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="40" class="org.eclipse.core.internal.preferences.Activator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="67" class="org.eclipse.soda.dk.comm.bundle.Activator" name="%bundle.name"/>
+	<bundle bundleID="66" name="usb4java-javax">
+		<library name="."/>
+		<library name="usb4java-javax-1.2.0.jar"/>
+	</bundle>
+	<bundle bundleID="69" name="Apache Extras Companion™ for Apache log4j™." provider="The Apache Software Foundation"/>
+	<bundle bundleID="68" name="usb4java">
+		<library name="."/>
+		<library name="libusb4java-1.2.0-linux-arm.jar"/>
+		<library name="libusb4java-1.2.0-linux-x86_64.jar"/>
+		<library name="libusb4java-1.2.0-linux-x86.jar"/>
+		<library name="libusb4java-1.2.0-osx-x86_64.jar"/>
+		<library name="libusb4java-1.2.0-osx-x86.jar"/>
+		<library name="libusb4java-1.2.0-windows-x86_64.jar"/>
+		<library name="libusb4java-1.2.0-windows-x86.jar"/>
+	</bundle>
+	<bundle bundleID="22" class="org.apache.felix.gogo.shell.Activator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="23" class="org.eclipse.core.internal.content.Activator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="24" name="org.eclipse.kura.deployment.agent" provider="EUROTECH">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="25" class="org.eclipse.core.internal.jobs.JobActivator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="26" name="org.eclipse.kura.core.certificates" provider="EUROTECH"/>
+	<bundle bundleID="27" name="org.eclipse.kura.web" provider="EUROTECH">
+		<library name="."/>
+		<library name="lib/gxt-2.2.5.jar"/>
+		<library name="target/org.eclipse.kura.web-1.0.6/WEB-INF/lib/gxt-2.2.5.jar"/>
+	</bundle>
+	<bundle bundleID="28" class="org.eclipse.osgi.framework.internal.core.SystemBundleActivator" hasExtensibleAPI="true" localization="systembundle" name="%systemBundle" provider="%eclipse.org"/>
+	<bundle bundleID="29" name="org.eclipse.kura.emulator.gpio" provider="EUROTECH">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="3" localization="plugin" name="%osgiUtil" provider="%eclipse.org"/>
+	<bundle bundleID="2" name="org.eclipse.kura.core.crypto" provider="EUROTECH"/>
+	<bundle bundleID="1" class="org.eclipse.equinox.metatype.impl.Activator" localization="plugin" name="%bundleName" provider="%bundleVendor"/>
+	<bundle bundleID="7" class="org.eclipse.equinox.http.jetty.internal.Activator" localization="plugin" name="%bundleName" provider="%providerName"/>
+	<bundle bundleID="30" name="org.eclipse.kura.core.configuration" provider="EUROTECH">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="6" name="org.eclipse.kura.core.net" provider="EUROTECH">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="5" class="org.eclipse.equinox.internal.ds.Activator" localization="plugin" name="%bundleName" provider="%bundleVendor"/>
+	<bundle bundleID="32" localization="plugin" name="Jetty :: Servlet Handling" provider="Eclipse Jetty Project"/>
+	<bundle bundleID="4" class="org.apache.felix.deploymentadmin.Activator" name="Apache Felix Deployment Admin" provider="The Apache Software Foundation"/>
+	<bundle bundleID="31" class="org.eclipse.core.internal.runtime.Activator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="70" name="org.eclipse.kura.demo.heater" provider="EUROTECH"/>
+	<bundle bundleID="71" name="org.eclipse.kura.emulator" provider="EUROTECH">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="9" class="org.eclipse.equinox.internal.util.UtilActivator" localization="plugin" name="%bundleName" provider="%bundleVendor"/>
+	<bundle bundleID="72" name="org.eclipse.kura.api" provider="EUROTECH"/>
+	<bundle bundleID="8" class="org.eclipse.equinox.internal.cm.Activator" localization="plugin" name="%bundleName" provider="%providerName"/>
+	<bundle bundleID="59" class="org.tigris.mtoolkit.iagent.internal.rpc.Activator" hasExtensibleAPI="true" name="mToolkit Instrumentation Agent RPC Bundle" provider="Tigris.org"/>
+	<bundle bundleID="58" localization="plugin" name="%pluginName" provider="%providerName">
+		<library name="junit.jar"/>
+	</bundle>
+	<bundle bundleID="57" name="slf4j-log4j12" provider="SLF4J.ORG"/>
+	<bundle bundleID="56" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="19" localization="plugin" name="Jetty :: Security" provider="Eclipse Jetty Project"/>
+	<bundle bundleID="55" name="Protocol Buffer Java API" provider="Google"/>
+	<bundle bundleID="17" class="org.eclipse.equinox.http.servlet.internal.Activator" localization="plugin" name="%bundleName" provider="%providerName"/>
+	<bundle bundleID="18" name="Apache Felix Dependency Manager" provider="The Apache Software Foundation"/>
+	<bundle bundleID="15" localization="plugin" name="Jetty :: IO Utility" provider="Eclipse Jetty Project"/>
+	<bundle bundleID="16" class="org.eclipse.equinox.http.registry.internal.Activator" localization="plugin" name="%bundleName" provider="%providerName"/>
+	<bundle bundleID="13" localization="plugin" name="Jetty :: Http Utility" provider="Eclipse Jetty Project"/>
+	<bundle bundleID="14" class="org.eclipse.equinox.internal.io.impl.Activator" localization="plugin" name="%bundleName" provider="%bundleVendor"/>
+	<bundle bundleID="11" localization="plugin" name="Jetty :: Utilities" provider="Eclipse Jetty Project"/>
+	<bundle bundleID="12" class="org.apache.felix.gogo.runtime.activator.Activator" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="21" name="org.eclipse.kura.linux.status" provider="EUROTECH">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="20" class="org.eclipse.equinox.console.command.adapter.Activator" localization="plugin" name="%bundleName" provider="%bundleVendor"/>
+	<bundle bundleID="64" name="Apache Commons Lang" provider="The Apache Software Foundation"/>
+	<bundle bundleID="65" name="Device IO"/>
+	<bundle bundleID="62" name="%bundle.name"/>
+	<bundle bundleID="63" name="slf4j-api" provider="SLF4J.ORG"/>
+	<bundle bundleID="60" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="61" localization="bundle" name="%bundle.name" provider="%bundle.provider"/>
+	<bundle bundleID="49" name="Apache Log4j" provider="Apache Software Foundation"/>
+	<bundle bundleID="48" localization="bundle" name="%bundle.name" provider="%bundle.provider"/>
+	<bundle bundleID="45" class="org.eclipse.equinox.internal.event.Activator" localization="plugin" name="%bundleName" provider="%bundleVendor"/>
+	<bundle bundleID="44" localization="plugin" name="%osgiServices" provider="%eclipse.org"/>
+	<bundle bundleID="47" name="org.eclipse.kura.core.cloud" provider="EUROTECH">
+		<library name="."/>
+		<library name="lib/com.google.protobuf_2.6.0.jar"/>
+	</bundle>
+	<bundle bundleID="46" localization="plugin" name="%bundleName" provider="%bundleProvider"/>
+	<bundle bundleID="10" class="org.knowhowlab.osgi.monitoradmin.Activator" name="KnowHowLab OSGi MonitorAdmin" provider="Know-How Lab"/>
+	<bundle bundleID="51" name="User">
+		<library name="gwt-log-3.1.8.jar"/>
+		<library name="gwt-user-2.4.0.jar"/>
+	</bundle>
+	<bundle bundleID="52" name="Commons IO" provider="The Apache Software Foundation"/>
+	<bundle bundleID="53" localization="plugin" name="%pluginName" provider="%providerName"/>
+	<bundle bundleID="54" name="slf4j-jdk14" provider="SLF4J.ORG"/>
+	<bundle bundleID="50" name="HSQLDB"/>
+</map>

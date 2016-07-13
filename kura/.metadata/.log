@@ -1,0 +1,115 @@
+!SESSION 2015-12-02 16:07:54.041 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-02 16:09:42.924
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-12-02 19:07:52.742 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-02 19:11:00.873
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.212
+!MESSAGE NLS unused message: _5008 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.213
+!MESSAGE NLS unused message: _5009 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.214
+!MESSAGE NLS unused message: _5010 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.215
+!MESSAGE NLS unused message: _6901 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.216
+!MESSAGE NLS unused message: _6999 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.217
+!MESSAGE NLS unused message: _8000 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.218
+!MESSAGE NLS unused message: _8999 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.223
+!MESSAGE NLS unused message: _9000 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.227
+!MESSAGE NLS unused message: _9999 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-02 19:13:27.228
+!MESSAGE NLS missing message: _7000 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.tigris.mtoolkit.osgimanagement 1 0 2015-12-02 19:22:46.710
+!MESSAGE Emulator successfully connected
+
+!ENTRY org.tigris.mtoolkit.osgimanagement 1 0 2015-12-02 19:24:24.958
+!MESSAGE Emulator successfully disconnected
+!SESSION 2015-12-07 16:29:53.957 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.366
+!MESSAGE NLS unused message: _5008 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.395
+!MESSAGE NLS unused message: _5009 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.395
+!MESSAGE NLS unused message: _5010 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.396
+!MESSAGE NLS unused message: _6901 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.397
+!MESSAGE NLS unused message: _6999 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.397
+!MESSAGE NLS unused message: _8000 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.397
+!MESSAGE NLS unused message: _8999 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.398
+!MESSAGE NLS unused message: _9000 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.398
+!MESSAGE NLS unused message: _9999 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.eclipse.osgi 2 1 2015-12-07 16:36:15.399
+!MESSAGE NLS missing message: _7000 in: org.tigris.mtoolkit.osgimanagement.internal.osgimanagement
+
+!ENTRY org.tigris.mtoolkit.osgimanagement 1 0 2015-12-07 16:56:45.890
+!MESSAGE Emulator successfully connected
+
+!ENTRY org.tigris.mtoolkit.osgimanagement 1 0 2015-12-07 16:56:57.534
+!MESSAGE Emulator successfully disconnected
+
+!ENTRY org.tigris.mtoolkit.osgimanagement 1 0 2015-12-07 17:05:59.707
+!MESSAGE Emulator successfully connected
+
+!ENTRY org.tigris.mtoolkit.osgimanagement 1 0 2015-12-07 17:06:04.129
+!MESSAGE Emulator successfully disconnected

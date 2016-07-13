@@ -1,0 +1,20 @@
+#Deployment Plugin Project File
+#Mon Dec 07 16:40:15 BRT 2015
+build.ant.name=<.>/resources/dp/iAgent_build.xml
+build.dp.file=<.>/resources/dp/iAgent.dp
+build.location=
+bundles.0.bundle_path=/home/ubuntu/workspace/kura/deploy/plugins/iagent.rpc.jar
+bundles.0.customizer=false
+bundles.0.headers.count=0
+bundles.0.missing=false
+bundles.0.name=bundles/iagent.rpc.jar
+bundles.0.symbolic_name=org.tigris.mtoolkit.iagent.rpc;singleton\:\=true
+bundles.0.version=2.0.0.20100105-0900
+bundles.count=1
+certificates.count=0
+general.signbundles=false
+headers.other.headers=
+headers.symbolic.name=iAgent
+headers.version=1.0.0
+resources.count=0
+

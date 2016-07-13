@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="70" localization="OSGI-INF/l10n/bundle" name="org.eclipse.kura.demo.heater" project="org.eclipse.kura.demo.heater" provider="EUROTECH"/>
+	<bundle bundleID="71" localization="OSGI-INF/l10n/bundle" name="org.eclipse.kura.emulator" project="org.eclipse.kura.emulator" provider="EUROTECH">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="74" localization="OSGI-INF/l10n/bundle" name="Hello World Example with Logger" project="org.eclipse.kura.example.hello_osgi"/>
+	<bundle bundleID="72" localization="OSGI-INF/l10n/bundle" name="org.eclipse.kura.api" project="org.eclipse.kura.api" provider="EUROTECH"/>
+</map>
